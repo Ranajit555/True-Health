@@ -38,7 +38,7 @@ const Information = () => {
   
   return (
     <div ref={Home_ref} className="">
-      <div className="h-[100%] pt-[10%]">
+      <div className="h-[100%] pt-[11%]">
         <Home/>
       </div><br/>
       <div ref={Daily_work_ref} className="h-[100%]">

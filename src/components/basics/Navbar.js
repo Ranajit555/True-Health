@@ -1,11 +1,11 @@
 import { ScrollToSection } from "../sub_components/Information";
-import {useSelector} from "react-redux" 
+import {useSelector} from "react-redux"
 
 
 const Navbar = () => {
   const {Home_ref,Daily_work_ref,Excercise_ref,Food_ref,Sleep_ref,Tricks_ref,Footer_ref}=useSelector((state)=>state.components);
   return (
-    <div className="flex items-center h-[35%] space-x-8 bg-sky-100">
+    <div className="flex items-center h-[38%] space-x-8 bg-[rgb(0,223,0,0.4)]">
       <a onClick={() => ScrollToSection(Home_ref)} className="ml-[7vh]">
         <button className="border rounded bg-blue-50 hover:bg-blue-300">Home</button>
       </a>

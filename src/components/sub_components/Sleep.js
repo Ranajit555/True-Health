@@ -3,14 +3,14 @@ const Sleep = () => {
         <div id="site_component">
             <article id="artical_containt">
                 <section className="page_image">
-                    <figure className="page_image_box ml-[5vh] h-[50vh] w-[70%]">
-                        <img className="page_topic_image h-[100%] w-[100%]" src="https://d.newsweek.com/en/full/2064238/man-sleeping-bed.webp?w=790&f=060ae32f48dd35f4b19e762d44923651" alt="image"></img>
+                    <figure className="page_image_box h-[50vh] w-[70%]">
+                        <img className="page_topic_image h-[100%] w-[100%]" src="image/sleep.webp" alt="image"></img>
                     </figure>
                 </section>
                 <section className="page_containt">
                     <div className="page_containt_box">
                         <div id="page_introduction">
-                            <p className="text-[20px]"><span className="font-bold text-[22px]">4. </span>Adequate and quality sleep is crucial for overall health and well-being.</p>
+                            <p className="text-[28px]"><span className="font-bold text-[28px]">4. </span>Adequate and quality sleep is crucial for overall health and well-being.</p>
                             <p className="text-[20px] text-black text-opacity-75 font-bold">Here are several ways in which sleep can positively impact your health-</p>
                             
                         </div><br />

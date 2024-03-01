@@ -5,14 +5,14 @@ const Food = () => {
         <div id="site_component">
             <article id="artical_containt">
                 <section className="page_image">
-                    <figure className="page_image_box ml-[5vh] h-[50vh] w-[70%]">
-                        <img className="page_topic_image h-[100%] w-[100%]" src="https://www.heartandstroke.ca/-/media/images/blog/woman-chopping-vegetables.jpg?rev=f5bd0e1f01404c4e8402e737b7a0556c&la=en&h=273&w=410&hash=FCED6ABA4BC2102EB86FCF2ADB3F4CB7" alt="image"></img>
+                    <figure className="page_image_box h-[50vh] w-[70%]">
+                        <img className="page_topic_image h-[100%] w-[100%]" src="image/healthy_food.jpg" alt="image"></img>
                     </figure>
                 </section>
                 <section className="page_containt">
                     <div className="page_containt_box">
                         <div id="page_introduction">
-                            <p className="text-[20px]"><span className="font-bold text-[22px]">3.</span>Eating a healthy, balanced diet is one of the most important things you can do to protect your health. In fact, up to 80% of premature heart disease and stroke can be prevented through your life choices and habits, such as eating a healthy diet and being physically active.
+                            <p className="text-[28px]"><span className="font-bold text-[28px]">3.</span>Eating a healthy, balanced diet is one of the most important things you can do to protect your health. In fact, up to 80% of premature heart disease and stroke can be prevented through your life choices and habits, such as eating a healthy diet and being physically active.
                             </p><p className="text-[20px] text-black text-opacity-75 font-bold">A healthy diet can help lower your risk of heart disease and stroke by-</p>
                             <li className="ml-[20px] ml-[9vh]">improving your cholesterol levels</li>
                             <li className="ml-[20px] ml-[9vh]">helping you manage your body weight</li>

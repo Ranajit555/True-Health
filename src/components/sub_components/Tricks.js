@@ -4,13 +4,13 @@ const Tricks = () => {
             <article id="artical_containt">
                 <section className="page_image">
                     <figure className="page_image_box ml-[5vh] h-[50vh] w-[70%]">
-                        <img className="page_topic_image h-[100%] w-[100%]" src="https://news.microsoft.com/wp-content/uploads/2017/11/POA17_franz_025-5a0ccda0a3132.jpg" alt="image"></img>
+                        <img className="page_topic_image h-[100%] w-[100%]" src="image/tricks.jpg" alt="image"></img>
                     </figure>
                 </section>
                 <section className="page_containt">
                     <div className="page_containt_box">
                         <div id="page_introduction">
-                            <p className="text-[20px]"><span className="font-bold text-[22px]">5. </span>We have all heard it many times before - regular exercise is good for you, and it can help you lose weight. But if you are like many Americans, you are busy, you have a sedentary job, and you haven't yet changed your exercise habits. The good news is that it's never too late to start. You can start slowly, and find ways to fit more physical activity into your life. To get the most benefit, you should try to get the recommended amount of exercise for your age. If you can do it, the payoff is that you will feel better, help prevent or control many diseases, and likely even live longer.</p>
+                            <p className="text-[25px]"><span className="font-bold text-[25px]">5. </span>We have all heard it many times before - regular exercise is good for you, and it can help you lose weight. But if you are like many Americans, you are busy, you have a sedentary job, and you haven't yet changed your exercise habits. The good news is that it's never too late to start. You can start slowly, and find ways to fit more physical activity into your life. To get the most benefit, you should try to get the recommended amount of exercise for your age. If you can do it, the payoff is that you will feel better, help prevent or control many diseases, and likely even live longer.</p>
                             <p> Regular excercise may:</p>
                         </div><br />
                         <div id="containt">
